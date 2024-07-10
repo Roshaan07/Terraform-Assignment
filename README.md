@@ -1,8 +1,11 @@
 # Terraform-Assignment
-The complete Assignment is divided in four parts as follows
+The complete Assignment is divided into four parts as follows,
 
-Part-1: 01-docker_build_push
-I've built docker image locally and pushed it Docker Hub repository  
+01-docker_build_push: I've built a docker image locally and pushed it to the Docker Hub repository  
 
-Part-2: 02-aws_ssh_key
+02-aws_ssh_key: Generated an SSH key locally and added it to the AWS account key pairs list
+
+03-aws_resources: Created aws resources such as EC2, VPC, ALB
+
+04-docker_pull_run: Pulled docker image on EC2 and ran it
 
