@@ -7,5 +7,5 @@ The complete Assignment is divided into four parts as follows,
 
 03-aws_resources: Created aws resources such as EC2, VPC, ALB
 
-04-docker_pull_run: Pulled docker image on EC2 and ran it
+04-docker_pull_run: Pulled docker image from the repository on EC2 and ran it
 
